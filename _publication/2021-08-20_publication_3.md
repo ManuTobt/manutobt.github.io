@@ -2,7 +2,7 @@
 title: "The distribution and evolution of supraglacial lakes on 79° N Glacier (north-eastern Greenland) and interannual climatic controls"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-08-20_publication_3
+permalink: /publication/2021-08-20_publication_3.md
 date: 2021-08-20
 venue: 'The Cryosphere'
 bibtexurl: 'https://manutobt.github.io/files/2021-08-20_publication_3.bib'
