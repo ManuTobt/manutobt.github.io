@@ -2,7 +2,7 @@
 title: "Uneven global retreat of persistent mountain snow cover alongside mountain warming from ERA5-land"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-10_publication_6
+permalink: /publication/2024-11-10_publication_6.md
 date: 2024-11-10
 venue: 'NPJ Climate and Atmospheric Science'
 bibtexurl: 'https://manutobt.github.io/files/2024-11-10_publication_6.bib'
