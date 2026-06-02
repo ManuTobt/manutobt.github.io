@@ -2,7 +2,7 @@
 title: "Extreme summer temperature anomalies over Greenland largely result from clear-sky radiation and circulation anomalies"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-28_publication_5
+permalink: /publication/2024-07-28_publication_5.md
 date: 2024-07-28
 venue: 'Communications Earth & Environment'
 bibtexurl: 'https://manutobt.github.io/files/2024-07-28_publication_5.bib'
