@@ -3,10 +3,9 @@ title: "Elevation-dependent temperature response in early Eocene using paleoclim
 collection: publications
 category: manuscripts
 permalink: /publication/2022-11-01_publication_4
-#excerpt: 'Mountains become warmer with elevation in response to greenhouse gas warming, an effect known as elevation-dependent warming. The Eocene is considered a replica of the future climate in an epoch with high atmospheric carbon dioxide concentration (CO2). Therefore, the topographic features of the Eocene strata are of interest. However, obtaining proxy data for mountain regions during the Eocene hothouse is challenging. Paleoclimate model simulation is an effective tool for exploring past climate change. Therefore, we conducted sensitivity experiment simulations employing the Community Earth System Model version 1.2 forced by proxy-estimated CO2 levels. This is the first Eocene study demonstrating the elevation-dependent temperature changes and illustrated using the surface energy budget decomposition. Here five major mountain ranges have been chosen based on their paleogeographic continental location. We found a nonlinear response of elevation-dependent temperature change to CO2 concentrations regulated by seasonal variations. The radiative and non-radiative feedback compensation is responsible for the elevation-dependency temperature changes. Our results suggest temperature perturbations regulate elevation-dependent changes in skin temperature through a combination of feedback under greenhouse warming in the early Eocene. These findings also show future paradox response exhibiting elevation-dependent cooling overall mountain regions due to lower elevation warming.'
 date: 2022-11-01
 venue: 'Environmental Research Letters'
-bibtexurl: 'https://manuel.blau.github.io/files/20210607_publication_4.bib'
+bibtexurl: 'https://manutobt.github.io/files/2022-11-01_publication_4.bib'
 citation: 'Kad P., Blau M.T., Ha K.-J., & Zhu J. (2022) Elevation-dependent temperature response in early Eocene using paleoclimate model experiment. Environmental Research Letters, 17(11), 114038. https://doi.org/10.1088/1748-9326/ac9c74'
 ---
 
