@@ -3,10 +3,9 @@ title: "The distribution and evolution of supraglacial lakes on 79° N Glacier
 collection: publications
 category: manuscripts
 permalink: /publication/2021-08-20_publication_3
-#excerpt: 'The Nioghalvfjerdsfjorden glacier (also known as the 79∘ North Glacier) drains approximately 8 % of the Greenland Ice Sheet. Supraglacial lakes (SGLs), or surface melt ponds, are a persistent summertime feature and are thought to drain rapidly to the base of the glacier and influence seasonal ice velocity. However, seasonal development and spatial distribution of SGLs in the north-east of Greenland are poorly understood, leaving a substantial error in the estimate of meltwater and its impacts on ice velocity. Using results from an automated detection of melt ponds, atmospheric and surface mass balance modelling, and reanalysis products, we investigate the role of specific climatic conditions in melt onset, extent, and duration from 2016 to 2019. The summers of 2016 and 2019 were characterised by above-average air temperatures, particularly in June, as well as a number of rainfall events, which led to extensive melt ponds to elevations up to 1600 m. Conversely, 2018 was particularly cold, with a large accumulated snowpack, which limited the development of lakes to altitudes less than 800 m. There is evidence of inland expansion and increases in the total area of lakes compared to the early 2000s, as projected by future global warming scenarios.'
 date: 2021-08-20
 venue: 'The Cryosphere'
-bibtexurl: 'https://manuel.blau.github.io/files/20210607_publication_2.bib'
+bibtexurl: 'https://manuel.blau.github.io/files/2021-08-20_publication_3.bib'
 citation: 'Turton J.V., Hochreuther P., Reimann N., & Blau M.T. (2021) The distribution and evolution of supraglacial lakes on 79° N Glacier (north-eastern Greenland) and interannual climatic controls. The Cryosphere, 15(8), 3877-3896. https://doi.org/10.5194/tc-15-3877-2021'
 ---
 
