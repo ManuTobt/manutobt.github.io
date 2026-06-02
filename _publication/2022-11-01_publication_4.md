@@ -2,7 +2,7 @@
 title: "Elevation-dependent temperature response in early Eocene using paleoclimate model experiment"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-11-01_publication_4
+permalink: /publication/2022-11-01_publication_4.md
 date: 2022-11-01
 venue: 'Environmental Research Letters'
 bibtexurl: 'https://manutobt.github.io/files/2022-11-01_publication_4.bib'
