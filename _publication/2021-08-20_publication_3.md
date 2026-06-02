@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2021-08-20_publication_3
 date: 2021-08-20
 venue: 'The Cryosphere'
-bibtexurl: 'https://manuel.blau.github.io/files/2021-08-20_publication_3.bib'
+bibtexurl: 'https://manutobt.github.io/files/2021-08-20_publication_3.bib'
 citation: 'Turton J.V., Hochreuther P., Reimann N., & Blau M.T. (2021) The distribution and evolution of supraglacial lakes on 79° N Glacier (north-eastern Greenland) and interannual climatic controls. The Cryosphere, 15(8), 3877-3896. https://doi.org/10.5194/tc-15-3877-2021'
 ---
 
