@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2021-06-07_publication_2.md
 date: 2021-06-07
 venue: 'Journal of Glaciology'
-bibtexurl: 'https://manuel.blau.github.io/files/20210607_publication_2.bib'
+bibtexurl: 'https://manuel.blau.github.io/files/2021-06-07_publication_2.bib'
 citation: 'Blau M.T., Turton J.V., Sauter T., & Mölg T. (2021) Surface mass balance and energy balance of the 79N Glacier (Nioghalvfjerdsfjorden, NE Greenland) modeled by linking COSIPY and Polar WRF. Journal of Glaciology, 67(266), 1093-1107. https://doi.org/10.1017/jog.2021.56'
 ---
 
