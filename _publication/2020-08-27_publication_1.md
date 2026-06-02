@@ -2,7 +2,7 @@
 title: "The Indian Ocean dipole and its impact on East African short rains in two CMIP5 historical scenarios with and without anthropogenic influence"
 collection: publications
 category: manuscripts
-permalink: /publication/20208027_publication_1.md
+permalink: /publication/2020-08-27_publication_1.md
 # excerpt: 'The Indian Ocean dipole mode impacts the atmosphere and hydroclimate in areas surrounding the Indian Ocean. The Coupled Model Intercomparison Project 5 output was used in this study to reveal new aspects of the relationship between the dipole mode and East African “short rains” (occurring from September to November). Furthermore, the impact of human activity on the ocean-atmosphere system was investigated using two scenarios, one with and one without human forcings from 1960 to 1999. The Indian Ocean dipole and its teleconnection were simulated, and the impact of the dipole mode on the atmosphere displayed a similar pattern and strength under both scenarios. However, the dipole peak was slightly delayed from September to October under the scenario with anthropogenic warming. Further, increased moisture convergence over East Africa was found to enhance the local monsoon system during boreal autumn in the scenario considering anthropogenic forcing. More intense Walker and Hadley circulations were found with the presence of anthropogenic influences and the dipole mode had a significant impact on both. Positive Indian Ocean dipole events were found to temporarily weaken Walker circulation and strengthen Hadley circulation.'
 date: 2020-08-27
 venue: 'Journal of Geophysical Research: Atmospheres'
