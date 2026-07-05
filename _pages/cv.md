@@ -41,6 +41,7 @@ Publications
   
 Service and leadership
 ======
-* Reviewer for The Cryosphere, Internationla Journal of Climatology, Journal of Hydrometeorology, npj Climate and Atmospheric Science, Communications Earth and Environment, Scientific Reports, Discover Sustainability, Bulletin of Atmospheric Science and Technology, Humanities and Social Sciences Communications, npj Natural Hazards, Climate Dynamics
-* 2024 ~ present: Regional representative for West Pacific for the Young Earth System Scientists (YESS)
-* 2026 ~ present: Project group leader of the APECS mentorship award group at the Association for Polar Early Carier Scientists (APECS) organization
+* Reviewer for The Cryosphere, Internationla Journal of Climatology, Journal of Hydrometeorology, npj Climate and Atmospheric Science, Communications Earth and Environment, Scientific Reports, Discover Sustainability, Bulletin of Atmospheric Science and Technology, Humanities and Social Sciences Communications, npj Natural Hazards, Climate Dynamics, Earth's Future
+* 2025.07 ~ present: Regional representative for West Pacific for the Young Earth System Scientists (YESS)
+* 2025.12 ~ present: Project group leader of the APECS mentorship award group at the Association for Polar Early Carier Scientists (APECS) organization
+* 2026.06 ~ present: Reviewing Editor at Springer, Nature
