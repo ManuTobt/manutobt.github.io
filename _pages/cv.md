@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Climate System, Pusan National University University, Rep. of Korea, 2025
-    Thesis: Dynamics of Land-Atmosphere Interaction over Snow/Ice-covered Greenland and High-Mountain Regions
+* Ph.D in Climate System, Pusan National University University, Rep. of Korea, 2025 /n Thesis: Dynamics of Land-Atmosphere Interaction over Snow/Ice-covered Greenland and High-Mountain Regions
 * M.S. in Climate & Environmental Sciences, Friedrich-Alexander University Erlangen Nuremberg, Germany, 2020
     Thesis: Glacier-Atmosphere Modelling with COSIPY Surface Energy and Mass Balance Model at the Nioghalvfjerdsfjorden Glacier
 * B.S. in Physical Geography, Friedrich-Alexander University Erlangen Nuremberg, Germany, 2017
