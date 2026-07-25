@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-07-09_publication_7.md
 date: 2026-07-09
 venue: 'Geoscientific Model Development'
-bibtexurl: 'https://manutobt.github.io/files/2026-07-09_publication_7.bib'
+bibtexurl: 'https://manutobt.github.io/files/2024-07-09_publication_7.bib'
 citation: 'Lund D.J., Wright N.M., Vaes B., Salzmann U., Rae J.W.B., Hickler T., Hutchinson D.K., Brugger J., Zhu J., Steinig S., Meckler A.N., Inglis G.N., Evans D., de Boer A.M., Otto-Bliesner B.L., Burls N., Zhang Y., Sluijs A., Reichgelt T., Niezgodzki I., Meissner K., Ladant J.-B., Kelemen F.D., Huber M., Greenwood D., Green M., Boscolo-Galazzo F., Blau M.T., and Baatsen M. (2026) DeepMIP-Eocene-p2: Experimental design for Phase 2 of the early Eocene component of the CMIP7/PMIP7 Deep-time Model Intercomparison Project (DeepMIP-Eocene). Geoscientific Model Development 19(13), 6143-6166. https://doi.org/10.5194/gmd-19-6143-2026
 ---
 
