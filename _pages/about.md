@@ -14,3 +14,5 @@ My research interests are centered on mountain and polar climate, climate dynami
 In near future, I will start a new position at the Hong Kong University of Science and Technology in the group of [Yu Liang](https://facultyprofiles.hkust-gz.edu.cn/). We will set a new focus on heatwave and heat stress in South East Asia. 
 
 In addition to my research work in the laboratory, I take time to observe nature and weather phenomena outside. In connection, I enjoy a road trip or hikes into the wilderness and mountains. Nature can teach you things a textbook can't do.
+
+Also check out my [personal blog](https://sites.google.com/view/manuelblau).
